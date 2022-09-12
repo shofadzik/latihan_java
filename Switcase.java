@@ -20,5 +20,3 @@ public class Switcase{
     }
 }
 
-//outputnya tulis javac ifStatement2.java terlebih dahulu untuk compile
-// dan tulis java ifStatement2 30 , 30 ini inputan atau argumne
